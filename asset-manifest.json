@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rajesh463/videos-app/static/css/main.e8e884a0.chunk.css",
+    "main.js": "/rajesh463/videos-app/static/js/main.1c0c4efa.chunk.js",
+    "main.js.map": "/rajesh463/videos-app/static/js/main.1c0c4efa.chunk.js.map",
+    "runtime-main.js": "/rajesh463/videos-app/static/js/runtime-main.92fa848e.js",
+    "runtime-main.js.map": "/rajesh463/videos-app/static/js/runtime-main.92fa848e.js.map",
+    "static/js/2.fa94e4ca.chunk.js": "/rajesh463/videos-app/static/js/2.fa94e4ca.chunk.js",
+    "static/js/2.fa94e4ca.chunk.js.map": "/rajesh463/videos-app/static/js/2.fa94e4ca.chunk.js.map",
+    "index.html": "/rajesh463/videos-app/index.html",
+    "static/css/main.e8e884a0.chunk.css.map": "/rajesh463/videos-app/static/css/main.e8e884a0.chunk.css.map",
+    "static/js/2.fa94e4ca.chunk.js.LICENSE.txt": "/rajesh463/videos-app/static/js/2.fa94e4ca.chunk.js.LICENSE.txt",
+    "static/media/luffy.e6a283f7.jpg": "/rajesh463/videos-app/static/media/luffy.e6a283f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92fa848e.js",
+    "static/js/2.fa94e4ca.chunk.js",
+    "static/css/main.e8e884a0.chunk.css",
+    "static/js/main.1c0c4efa.chunk.js"
+  ]
+}
